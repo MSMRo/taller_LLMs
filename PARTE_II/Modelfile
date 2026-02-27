@@ -1,0 +1,1 @@
+FROM ./mi_modelo_the_economist.gguf

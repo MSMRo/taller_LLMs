@@ -39,3 +39,10 @@ $ pip install gradio
 $ pip install huggingface_hub
 $ pip install transformers datasets peft accelerate torch
 ```
+
+
+# Parte III - RAG
+
+```
+$ pip install -qU langchain langchain-community langchain-ollama chromadb pypdf
+```

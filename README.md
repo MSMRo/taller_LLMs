@@ -21,6 +21,7 @@ $ conda activate llms-env
 
 (llms-env) $ python -m pip install ollama
 (llms-env) $ conda install -n llms-env ipykernel --update-deps --force-reinstall
+(llms-env) $ conda env export --no-builds > environment.yml # in PC-B you have to use $ conda env create -f environment.yml
 ```
 
 

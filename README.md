@@ -47,3 +47,17 @@ $ pip install transformers datasets peft accelerate torch
 ```
 $ pip install -qU langchain langchain-community langchain-ollama chromadb pypdf
 ```
+
+# Part IV - LANGFLOW
+
+```
+$ pip install langflow -U
+$ python -m langflow run            #uv run langflow run   # si tienes estalado uv # langflow run --port 8000
+```
+
+To start Langflow, run:
+
+uv run langflow run
+Langflow starts at http://127.0.0.1:7860.
+
+That's it! You're ready to build with Langflow!
